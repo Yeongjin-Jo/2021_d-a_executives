@@ -37,7 +37,14 @@ origin 원격 저장소는 현재 origin/master 브랜치의 상태와 같음
 
 
 ## 영진 주제 :
+### github 블로그 만들기 <br/>
+#### [테마 url](https://github.com/topics/jekyll-theme) : <https://github.com/topics/jekyll-theme>
 
+### layout / title 설정 (복사)
+\---<br/>
+layout: single<br/>
+title:  "Welcome to Jekyll!"<br/>
+\---<br/>
 
 ## 보혜 주제 :
 
